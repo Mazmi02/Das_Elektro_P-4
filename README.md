@@ -696,7 +696,6 @@
   { "en": "Apa Itu Penyearahan (Rectification)?", "id": "Proses Mengubah AC Menjadi DC." },
   { "en": "Apa Itu Transistor (Transistor)?", "id": "Komponen Penguat Atau Saklar Elektronik." },
   { "en": "Apa Dua Jenis Transistor Utama?", "id": "BJT (Bipolar Junction Transistor) Dan FET (Field Effect Transistor)." },
-  { "en": "Apa Itu Sirkuit Terpadu (Integrated Circuit) (IC)?", "id": "Banyak Komponen Dalam Satu Chip." },
   { "en": "Apa Itu Sinyal Analog (Analog Signal)?", "id": "Sinyal Nilainya Kontinu Berubah." },
   { "en": "Apa Itu Sinyal Digital (Digital Signal)?", "id": "Sinyal Nilainya Diskrit (0 Atau 1)." },
   { "en": "Apa Itu Konversi Analog Ke Digital (ADC)?", "id": "Mengubah Sinyal Analog Ke Digital." },
@@ -707,8 +706,6 @@
   { "en": "Apa Itu Frekuensi Standar (Standard Frequency) Listrik Indonesia?", "id": "Lima Puluh Hertz (50 Hz)." },
   { "en": "Apa Itu Tegangan Standar (Standard Voltage) Rumah Indonesia?", "id": "Dua Ratus Dua Puluh Volt (220 V)." },
   { "en": "Apa Itu Transformator (Transformer)?", "id": "Mengubah Level Tegangan AC." },
-  { "en": "Apa Itu Motor Listrik (Electric Motor)?", "id": "Mengubah Energi Listrik Ke Mekanik." },
-  { "en": "Apa Itu Generator Listrik (Electric Generator)?", "id": "Mengubah Energi Mekanik Ke Listrik." },
   { "en": "Apa Itu Kabel (Cable) Listrik?", "id": "Konduktor Berisolasi Hantarkan Listrik." },
   { "en": "Apa Fungsi Isolator (Insulator) Kabel?", "id": "Mencegah Kontak Listrik Berbahaya." },
   { "en": "Apa Itu Grounding (Pembumian)?", "id": "Koneksi Ke Tanah Untuk Keamanan." },
@@ -1458,10 +1455,8 @@
   { "en": "Apa Itu Gain (Gain)?", "id": "Rasio Penguatan Sinyal." },
   { "en": "Apa Itu Bandwidth (Bandwidth)?", "id": "Rentang Frekuensi Operasi." },
   { "en": "Apa Itu Umpan Balik (Feedback)?", "id": "Mengembalikan Output Ke Input." },
-  { "en": "Apa Efek Umpan Balik Negatif (Negative Feedback)?", "id": "Menstabilkan Gain, Mengurangi Distorsi." },
   { "en": "Apa Itu Osilator (Oscillator)?", "id": "Penghasil Sinyal Periodik." },
   { "en": "Apa Syarat Osilasi (Oscillation)?", "id": "Kriteria Barkhausen (Gain Loop=1, Fasa=0)." },
-  { "en": "Apa Itu Filter (Filter)?", "id": "Rangkaian Selektif Frekuensi." },
   { "en": "Apa Itu Gerbang Logika (Logic Gate)?", "id": "Blok Dasar Sirkuit Digital." },
   { "en": "Apa Itu Flip-Flop (Flip-Flop)?", "id": "Elemen Memori Digital Dasar." },
   { "en": "Apa Itu Register (Register)?", "id": "Kumpulan Flip-Flop Simpan Data." },
@@ -1470,8 +1465,6 @@
   { "en": "Apa Itu Demultiplexer (Demultiplexer)?", "id": "Distributor Data Output." },
   { "en": "Apa Itu Encoder (Encoder)?", "id": "Pengubah Input Aktif Ke Kode Biner." },
   { "en": "Apa Itu Decoder (Decoder)?", "id": "Pengubah Kode Biner Ke Output Aktif." },
-  { "en": "Apa Itu ADC (Analog-to-Digital Converter)?", "id": "Pengubah Sinyal Analog Ke Digital." },
-  { "en": "Apa Itu DAC (Digital-to-Analog Converter)?", "id": "Pengubah Sinyal Digital Ke Analog." },
   { "en": "Apa Itu Sirkuit Rangkaian Cetak Fleksibel (FPC)?", "id": "Flexible Printed Circuit (PCB Fleksibel)." },
   { "en": "Apa Keuntungan FPC (Flexible Printed Circuit)?", "id": "Fleksibel, Ringan, Hemat Ruang." },
   { "en": "Apa Itu Konektor ZIF (Zero Insertion Force)?", "id": "Konektor FPC Tanpa Gaya Pemasangan." },
@@ -1649,7 +1642,6 @@
   { "en": "Apa Itu Filter RC (Resistor Kapasitor) Sederhana?", "id": "Filter Pasif Lolos Rendah/Tinggi." },
   { "en": "Apa Itu Filter LC (Induktor Kapasitor)?", "id": "Filter Pasif (Bisa Lebih Tajam)." },
   { "en": "Apa Itu Filter Aktif (Active Filter)?", "id": "Filter Menggunakan Op-Amp." },
-  { "en": "Apa Itu Osilator (Oscillator)?", "id": "Rangkaian Penghasil Sinyal Periodik." },
   { "en": "Apa Itu Timer (Timer) IC 555?", "id": "IC (Integrated Circuit) Untuk Timer, Osilator." },
   { "en": "Apa Itu ADC (Analog-to-Digital Converter)?", "id": "Mengubah Sinyal Analog Ke Nilai Digital." },
   { "en": "Apa Itu Resolusi (Resolution) ADC?", "id": "Jumlah Bit Output (Akurasi Kuantisasi)." },
@@ -2120,7 +2112,6 @@
   { "en": "Contoh Antrian Pesan (Message Queue)?", "id": "RabbitMQ, Kafka, ActiveMQ." },
   { "en": "Apa Itu Event-Driven Architecture (EDA)?", "id": "Arsitektur Berbasis Kejadian (Event)." },
   { "en": "Apa Kepanjangan EDA (Event-Driven Architecture)?", "id": "Arsitektur Berbasis Kejadian." }
-
 
 
         ];
